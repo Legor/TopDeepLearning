@@ -10,7 +10,9 @@ Last Update: 2018.09.03
 | [Keras](https://github.com/fchollet/keras) | 33160 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
 | [Caffe](https://github.com/BVLC/caffe) | 25397 | Caffe: a fast open framework for deep learning.
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 24709 | TensorFlow tutorials and code examples for beginners.
+| [Pytorch](https://github.com/pytorch/pytorch) | 18349 | Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 | [Neural Style](https://github.com/jcjohnson/neural-style) | 16040 | Torch implementation of neural style algorithm.
+| [Detectron](https://github.com/facebookresearch/Detectron) | 16038 | Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
 | [MXNet](https://github.com/dmlc/mxnet) | 15122 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
 | [CNTK](https://github.com/Microsoft/CNTK) | 15063 | Computational Network Toolkit (CNTK).
 | [OpenAI Gym](https://github.com/openai/gym) | 13457 | A toolkit for developing and comparing reinforcement learning algorithms.
@@ -26,6 +28,7 @@ Last Update: 2018.09.03
 | [Theano](https://github.com/Theano/Theano) | 8447 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 | [Char RNN](https://github.com/karpathy/char-rnn) | 8418 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
 | [Torch](https://github.com/torch/torch7) | 8023 | Torch7, Deep Learning Library.
+| [DeepSpeech](https://github.com/mozilla/DeepSpeech) | 7668 | A TensorFlow implementation of Baidu's DeepSpeech architecture.
 | [TensorFlow Playground](https://github.com/tensorflow/playground) | 7207 | Play with neural networks!
 | [Synaptic](https://github.com/cazala/synaptic) | 6247 | architecture-free neural network library for node.js and the browser
 | [Leaf](https://github.com/autumnai/leaf) | 5313 | Open Machine Intelligence Framework for Hackers.
@@ -49,6 +52,8 @@ Last Update: 2018.09.03
 | [dl-setup](https://github.com/saiprashanths/dl-setup) | 2015 | Instructions for setting up the software on your deep learning machine.
 | [Deep Detect](https://github.com/beniz/deepdetect) | 1653 | Deep Learning API and Server in C++11 with Python bindings and support for Caffe.
 | [RNN Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) | 1608 | A recurrent neural network designed to generate classical music.
+| [Lucid](https://github.com/tensorflow/lucid) | 1595 | A collection of infrastructure and tools for research in neural network interpretability. 
+| [deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) | 1378 | Repo for the Deep Reinforcement Learning Nanodegree program.
 | [TDB](https://github.com/ericjang/tdb) | 1328 | Interactive, node-by-node debugging and visualization for TensorFlow.
 | [Caffe on Spark](https://github.com/yahoo/CaffeOnSpark) | 1250 | Caffe On Spark.
 | [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials) | 1203 | Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.
