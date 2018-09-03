@@ -32,32 +32,33 @@ Last Update: 2018.09.03
 | [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) | 5037 | From the basics to slightly more interesting applications of Tensorflow.
 | [Neural Talk](https://github.com/karpathy/neuraltalk) | 4794 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 | [DCGAN TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow) | 4658 | A tensorflow implementation of Deep Convolutional Generative Adversarial Networks
+| [Deep Learning Flappy Bird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) | 4562 | Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 | [Tiny DNN](https://github.com/tiny-dnn/tiny-dnn) | 4352 | header only, dependency-free deep learning framework in C++11
 | [Neural Talk 2](https://github.com/karpathy/neuraltalk2) | 4297 | Efficient Image Captioning code in Torch, runs on GPU.
 | [Chainer](https://github.com/pfnet/chainer) | 4081 | A flexible framework of neural networks for deep learning.
-| [Colornet](https://github.com/pavelgonchar/colornet) | 3335 | Neural Network to colorize grayscale images.
-| [Image Analogies](https://github.com/awentzonline/image-analogies) | 3236 | Generate image analogies using neural matching and blending.
 | [Neon](https://github.com/NervanaSystems/neon) | 3627 | Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™.
 | [Lasagne](https://github.com/Lasagne/Lasagne) | 3512 | Lightweight library to build and train neural networks in Theano.
 | [LISA-lab Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) | 3497 | Deep Learning Tutorial notes and code. See the wiki for more info.
-| [dl-docker](https://github.com/saiprashanths/dl-docker) | 3025 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.).
-| [Matlab Deep Learning Toolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3041 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
-| [Deep Learning Flappy Bird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) | 4562 | Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
-| [dl-setup](https://github.com/saiprashanths/dl-setup) | 2015 | Instructions for setting up the software on your deep learning machine.
-| [Neural Story Teller](https://github.com/ryankiros/neural-storyteller) | 2559 | A recurrent neural network for generating little stories about images.
 | [DIGITS](https://github.com/NVIDIA/DIGITS) | 3333 | Deep Learning GPU Training System.
+| [Colornet](https://github.com/pavelgonchar/colornet) | 3335 | Neural Network to colorize grayscale images.
+| [Image Analogies](https://github.com/awentzonline/image-analogies) | 3236 | Generate image analogies using neural matching and blending.
+| [Matlab Deep Learning Toolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3041 | Matlab/Octave toolbox for deep learning.
+| [dl-docker](https://github.com/saiprashanths/dl-docker) | 3025 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.).
+ Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
+| [Neural Story Teller](https://github.com/ryankiros/neural-storyteller) | 2559 | A recurrent neural network for generating little stories about images.
 | [Deep Jazz](https://github.com/jisungk/deepjazz) | 2185 | Deep learning driven jazz generation using Keras & Theano!
-| [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials) | 1203 | Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.
-| [RNN Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) | 1608 | A recurrent neural network designed to generate classical music.
-| [Blocks](https://github.com/mila-udem/blocks) | 1117 | A Theano framework for building and training neural networks.
-| [TDB](https://github.com/ericjang/tdb) | 1328 | Interactive, node-by-node debugging and visualization for TensorFlow.
-| [Scikit Neural Net](https://github.com/aigamedev/scikit-neuralnetwork) | 1120 | Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn.
-| [Veles](https://github.com/samsung/veles) | 864 | Distributed machine learning platform (Python, CUDA, OpenCL)
+| [dl-setup](https://github.com/saiprashanths/dl-setup) | 2015 | Instructions for setting up the software on your deep learning machine.
 | [Deep Detect](https://github.com/beniz/deepdetect) | 1653 | Deep Learning API and Server in C++11 with Python bindings and support for Caffe.
-| [TensorFlow DeepQ](https://github.com/nivwusquorum/tensorflow-deepq) | 1132 | A deep Q learning demonstration using Google Tensorflow.
+| [RNN Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) | 1608 | A recurrent neural network designed to generate classical music.
+| [TDB](https://github.com/ericjang/tdb) | 1328 | Interactive, node-by-node debugging and visualization for TensorFlow.
 | [Caffe on Spark](https://github.com/yahoo/CaffeOnSpark) | 1250 | Caffe On Spark.
-| [Nolearn](https://github.com/dnouri/nolearn) | 904 | Abstractions around neural net libraries, most notably Lasagne.
+| [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials) | 1203 | Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.
+| [TensorFlow DeepQ](https://github.com/nivwusquorum/tensorflow-deepq) | 1132 | A deep Q learning demonstration using Google Tensorflow.
+| [Scikit Neural Net](https://github.com/aigamedev/scikit-neuralnetwork) | 1120 | Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn.
+| [Blocks](https://github.com/mila-udem/blocks) | 1117 | A Theano framework for building and training neural networks.
 | [MatConvNet](https://github.com/vlfeat/matconvnet)| 1059 | MATLAB CNN toolbox for computer vision applications.
+| [Nolearn](https://github.com/dnouri/nolearn) | 904 | Abstractions around neural net libraries, most notably Lasagne.
+| [Veles](https://github.com/samsung/veles) | 864 | Distributed machine learning platform (Python, CUDA, OpenCL)
 | [DeepCL](https://github.com/hughperkins/DeepCL)| 712 | OpenCL library to train deep convolutional neural networks.
 | [Visual Search Server](https://github.com/AKSHAYUBHAT/VisualSearchServer)| 474 | Visual Search using Tensorflow inception model & Approximate Nearest Neighbors.
 
