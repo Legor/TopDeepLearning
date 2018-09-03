@@ -6,19 +6,22 @@ Last Update: 2018.09.03
 | Project Name| Stars | Description |
 | ------- | ------ | ------ |
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | 108707 | Computation using data flow graphs for scalable machine learning.
-| [Caffe](https://github.com/BVLC/caffe) | 25397 | Caffe: a fast open framework for deep learning.
-| [Neural Style](https://github.com/jcjohnson/neural-style) | 16040 | Torch implementation of neural style algorithm.
-| [Deep Dream](https://github.com/google/deepdream) | 11484 | Deep Dream.
-| [Keras](https://github.com/fchollet/keras) | 33160 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
-| [Roc AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | 8853 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016).
 | [TensorFlow Models](https://github.com/tensorflow/models) | 40831 |  Models built with TensorFlow
-| [Neural Doodle](https://github.com/alexjc/neural-doodle) | 8668 | Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
-| [CNTK](https://github.com/Microsoft/CNTK) | 15063 | Computational Network Toolkit (CNTK).
+| [Keras](https://github.com/fchollet/keras) | 33160 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
+| [Caffe](https://github.com/BVLC/caffe) | 25397 | Caffe: a fast open framework for deep learning.
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 24709 | TensorFlow tutorials and code examples for beginners.
+| [Neural Style](https://github.com/jcjohnson/neural-style) | 16040 | Torch implementation of neural style algorithm.
+| [MXNet](https://github.com/dmlc/mxnet) | 15122 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
+| [CNTK](https://github.com/Microsoft/CNTK) | 15063 | Computational Network Toolkit (CNTK).
+| [OpenAI Gym](https://github.com/openai/gym) | 13457 | A toolkit for developing and comparing reinforcement learning algorithms.
+| [Deep Dream](https://github.com/google/deepdream) | 11484 | Deep Dream.
+| [Magenta](https://github.com/tensorflow/magenta) | 10825 | Magenta: Music and Art Generation with Machine Intelligence
+| [Darknet](https://github.com/pjreddie/darknet) | 9314 | Open Source Neural Networks in C
 | [ConvNet JS](https://github.com/karpathy/convnetjs) | 9263 | Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+| [Roc AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | 8853 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016).
+| [Neural Doodle](https://github.com/alexjc/neural-doodle) | 8668 | Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 | [Torch](https://github.com/torch/torch7) | 8023 | Torch7, Deep Learning Library.
 | [OpenFace](https://github.com/cmusatyalab/openface) | 10636 | Face recognition with deep neural networks.
-| [MXNet](https://github.com/dmlc/mxnet) | 15122 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
 | [Theano](https://github.com/Theano/Theano) | 8447 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 | [Leaf](https://github.com/autumnai/leaf) | 5313 | Open Machine Intelligence Framework for Hackers.
 | [Char RNN](https://github.com/karpathy/char-rnn) | 8418 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
@@ -26,8 +29,6 @@ Last Update: 2018.09.03
 | [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) | 9539 | Deep Learning for Java, Scala & Clojure on Hadoop, Spark.
 | [TFLearn](https://github.com/tflearn/tflearn) | 8483 | Deep learning library featuring a higher-level API for TensorFlow.
 | [TensorFlow Playground](https://github.com/tensorflow/playground) | 7207 | Play with neural networks!
-| [OpenAI Gym](https://github.com/openai/gym) | 13457 | A toolkit for developing and comparing reinforcement learning algorithms.
-| [Magenta](https://github.com/tensorflow/magenta) | 10825 | Magenta: Music and Art Generation with Machine Intelligence
 | [Colornet](https://github.com/pavelgonchar/colornet) | 3335 | Neural Network to colorize grayscale images.
 | [Synaptic](https://github.com/cazala/synaptic) | 6247 | architecture-free neural network library for node.js and the browser
 | [Neural Talk 2](https://github.com/karpathy/neuraltalk2) | 4297 | Efficient Image Captioning code in Torch, runs on GPU.
@@ -47,7 +48,6 @@ Last Update: 2018.09.03
 | [Tiny DNN](https://github.com/tiny-dnn/tiny-dnn) | 4352 | header only, dependency-free deep learning framework in C++11
 | [Brainstorm](https://github.com/IDSIA/brainstorm) | 1279 | Fast, flexible and fun neural networks. &#x1F53A; Brainstorm is discontinued.
 | [dl-docker](https://github.com/saiprashanths/dl-docker) | 3025 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.).
-| [Darknet](https://github.com/pjreddie/darknet) | 9314 | Open Source Neural Networks in C
 | [Theano Tutorials](https://github.com/Newmu/Theano-Tutorials) | 1203 | Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.
 | [RNN Music Composition](https://github.com/hexahedria/biaxial-rnn-music-composition) | 1608 | A recurrent neural network designed to generate classical music.
 | [Blocks](https://github.com/mila-udem/blocks) | 1117 | A Theano framework for building and training neural networks.
