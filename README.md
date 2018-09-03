@@ -43,8 +43,7 @@ Last Update: 2018.09.03
 | [Colornet](https://github.com/pavelgonchar/colornet) | 3335 | Neural Network to colorize grayscale images.
 | [Image Analogies](https://github.com/awentzonline/image-analogies) | 3236 | Generate image analogies using neural matching and blending.
 | [Matlab Deep Learning Toolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3041 | Matlab/Octave toolbox for deep learning.
-| [dl-docker](https://github.com/saiprashanths/dl-docker) | 3025 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.).
- Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
+| [dl-docker](https://github.com/saiprashanths/dl-docker) | 3025 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.). Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
 | [Neural Story Teller](https://github.com/ryankiros/neural-storyteller) | 2559 | A recurrent neural network for generating little stories about images.
 | [Deep Jazz](https://github.com/jisungk/deepjazz) | 2185 | Deep learning driven jazz generation using Keras & Theano!
 | [dl-setup](https://github.com/saiprashanths/dl-setup) | 2015 | Instructions for setting up the software on your deep learning machine.
@@ -59,6 +58,8 @@ Last Update: 2018.09.03
 | [MatConvNet](https://github.com/vlfeat/matconvnet)| 1059 | MATLAB CNN toolbox for computer vision applications.
 | [Nolearn](https://github.com/dnouri/nolearn) | 904 | Abstractions around neural net libraries, most notably Lasagne.
 | [Veles](https://github.com/samsung/veles) | 864 | Distributed machine learning platform (Python, CUDA, OpenCL)
+| [Generic U-Net](https://github.com/jakeret/tf_unet) | 767 | Generic U-Net Tensorflow implementation for image segmentation 
+| [U-Net Keras](https://github.com/zhixuhao/unet) | 767 | Implementation of deep learning framework -- Unet, using Keras
 | [DeepCL](https://github.com/hughperkins/DeepCL)| 712 | OpenCL library to train deep convolutional neural networks.
 | [Visual Search Server](https://github.com/AKSHAYUBHAT/VisualSearchServer)| 474 | Visual Search using Tensorflow inception model & Approximate Nearest Neighbors.
 
