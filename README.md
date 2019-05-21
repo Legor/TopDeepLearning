@@ -28,9 +28,11 @@ Last Update: May 21st 2019
 | [TFLearn](https://github.com/tflearn/tflearn) | 9085 | Deep learning library featuring a higher-level API for TensorFlow.
 | [Roc AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | 8930 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016).
 | [Theano](https://github.com/Theano/Theano) | 8795 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+| [CycleGAN](https://github.com/junyanz/CycleGAN) | 8414 | Torch implementation for learning an image-to-image translation network, the CycleGAN ([Paper](https://arxiv.org/pdf/1703.10593.pdf))
 | [Torch](https://github.com/torch/torch7) | 8295 | Torch7, Deep Learning Library.
 | [TensorFlow Playground](https://github.com/tensorflow/playground) | 8175 | Play with neural networks!
 | [Synaptic](https://github.com/cazala/synaptic) | 6515 | architecture-free neural network library for node.js and the browser
+| [NVIDIA vid2vid](https://github.com/NVIDIA/vid2vid) | 6386 | Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation. <p><img src="https://raw.githubusercontent.com/NVIDIA/vid2vid/master/imgs/city_change_styles.gif" height="250px"><img src="https://raw.githubusercontent.com/NVIDIA/vid2vid/master/imgs/face.gif" height="250px"></p>
 | [DCGAN TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow) | 5743 | A tensorflow implementation of Deep Convolutional Generative Adversarial Networks
 | [Leaf](https://github.com/autumnai/leaf) | 5404 | Open Machine Intelligence Framework for Hackers.
 | [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) | 5304 | From the basics to slightly more interesting applications of Tensorflow.
