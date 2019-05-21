@@ -11,10 +11,9 @@ Last Update: May 21st 2019
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | 31627 | TensorFlow tutorials and code examples for beginners.
 | [Pytorch](https://github.com/pytorch/pytorch) | 28233 | Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 | [Caffe](https://github.com/BVLC/caffe) | 28124 | Caffe: a fast open framework for deep learning.
-| [Detectron](https://github.com/facebookresearch/Detectron) | 20396 | Detectron is Facebook AI Research's software system that 
+| [Detectron](https://github.com/facebookresearch/Detectron) | 20396 | Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
 | [MXNet](https://github.com/dmlc/mxnet) | 16935 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
 | [Neural Style](https://github.com/jcjohnson/neural-style) | 16809 | Torch implementation of neural style algorithm.
-implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework.
 | [OpenAI Gym](https://github.com/openai/gym) | 16778 | A toolkit for developing and comparing reinforcement learning algorithms.
 | [CNTK](https://github.com/Microsoft/CNTK) | 16142 | Computational Network Toolkit (CNTK).
 | [Darknet](https://github.com/pjreddie/darknet) | 13259 | Open Source Neural Networks in C
