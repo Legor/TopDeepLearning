@@ -31,6 +31,7 @@ Last Update: May 21st 2019
 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 8414 | Torch implementation for learning an image-to-image translation network, the CycleGAN ([Paper](https://arxiv.org/pdf/1703.10593.pdf))
 | [Torch](https://github.com/torch/torch7) | 8295 | Torch7, Deep Learning Library.
 | [TensorFlow Playground](https://github.com/tensorflow/playground) | 8175 | Play with neural networks!
+| [DeOldify](https://github.com/jantic/deoldify) | 8060 |A Deep Learning based project for colorizing and restoring old images (and video!)
 | [Synaptic](https://github.com/cazala/synaptic) | 6515 | architecture-free neural network library for node.js and the browser
 | [NVIDIA vid2vid](https://github.com/NVIDIA/vid2vid) | 6386 | Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation. <p><img src="https://raw.githubusercontent.com/NVIDIA/vid2vid/master/imgs/city_change_styles.gif" height="250px"><img src="https://raw.githubusercontent.com/NVIDIA/vid2vid/master/imgs/face.gif" height="250px"></p>
 | [DCGAN TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow) | 5743 | A tensorflow implementation of Deep Convolutional Generative Adversarial Networks
